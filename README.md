@@ -1,4 +1,3 @@
-<!-- Please update value in the {}  -->
 
 <h1 align="center">404-not-found</h1>
 
@@ -25,14 +24,12 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-<!--![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)-->
+![](https://github.com/Damyanmd/404-not-found-devchallenges/blob/main/images/Capture.PNG)
 
 - In the screenshot you can see the final version of challenge 404 Not Found. As the name suggest it is a webpage that is loading when the searched webpage is not found and it is giving the error 404.
 - By doing this challege I was able to improve my css skills.
